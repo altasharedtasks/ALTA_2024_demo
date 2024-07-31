@@ -1,0 +1,218 @@
+[
+    {
+        "id": 4082,
+        "sent_and_label": [
+            [
+                "Dear sir or mam, Have you or someone in your family ever read a book, magazine, or watched a movie that was taken to be offensive?",
+                "human"
+            ],
+            [
+                "Do you or that person think that it would make a difference if that one book, book or movie was removed from the shelves?",
+                "human"
+            ],
+            [
+                "Would removing every book, cd, movie or magazine from shelves that were to have a great or small amount of racism, violence, bad language and other inappropriate things be helping the community?",
+                "human"
+            ],
+            [
+                "Do you believe that its everyone's decision whether or not those things should be removed from the shelves?",
+                "human"
+            ],
+            [
+                "I believe that alot of people in our community have read a book in their lifetime that they considered to be the slightest bit offensive to them.",
+                "human"
+            ],
+            [
+                "I bet people all over the world have read offensive books.",
+                "human"
+            ],
+            [
+                "But the only types of people that those books, movies or magazines would affect would be teenagers and kids.",
+                "human"
+            ],
+            [
+                "But at the time they wouldn't see it as offensive, they would think that it was cool and interesting and they would want to read or watch it over and over again until they were to get bored of it then they would gone back the library and get another one.",
+                "human"
+            ],
+            [
+                "I think in a way it would and would not make a difference whether or not they were removed from the shelves.",
+                "human"
+            ],
+            [
+                "Because if only that one book, movie or magazine was removed from the shelves then the person that got it removed would move on from that book,magazine or movie and find plenty more of them that would be more or equally offensive.",
+                "human"
+            ],
+            [
+                "If every people were to remove every book that they were to find offensive then other people who would enjoy them that certain thing wouldn't beable to obtain it.If everyonewere to find all kinds different books, movies or magazines offensive and got them removed from the shelves then their wouldn't be very much left for the community.",
+                "human"
+            ],
+            [
+                "In conclusion I believe that every individual has their opinion and own way of thinking when it comes to what is and is not offensive.",
+                "human"
+            ],
+            [
+                "I think it is not just up to them on what should be on the shelves in a library, but the communities choice.",
+                "human"
+            ],
+            [
+                "If someone wants a good book,magazine, or movie they should ask suggestions from a friend or family member on what they should get.",
+                "human"
+            ],
+            [
+                "\"All of us can think of a book that we hope none of our children or any other children have taken off the shelf.",
+                "machine"
+            ],
+            [
+                "But if I have the right to remove that book from the shelf -- that work I abhor -- then you also have exactly the same right and so does everyone else.",
+                "machine"
+            ],
+            [
+                "And then we have no books left on the shelf for any of us\".",
+                "machine"
+            ],
+            [
+                "This quote by Katherine Paterson is true because if people start removing books, magazines, movies or anything that they find offensive then there wouldn't be anything left for anyone to read, watch or listen to.",
+                "machine"
+            ],
+            [
+                "Thank you for taking the time to read my essay.",
+                "machine"
+            ]
+        ],
+        "domain": "academic"
+    },
+    {
+        "id": 17830,
+        "sent_and_label": [
+            [
+                "The obstacles that the builders faced in attempting to allow dirigibles to dock there were stuff like steel.",
+                "human"
+            ],
+            [
+                "A dirigible moored at the top of the building would add stress to the building’s frame.",
+                "machine"
+            ],
+            [
+                "The stress of the dirigible’s load and the wind pressure would have to be transmitted all the way to the building’s foundation.",
+                "machine"
+            ],
+            [
+                "The steel frame of the Empire State Building would have to be modified and strengthened to accommodate this new situation.",
+                "machine"
+            ],
+            [
+                "Over sixty thousand dollars’ worth of modifications had to be made to the building’s framework.",
+                "machine"
+            ],
+            [
+                "The architects could not simply drop a mooring mast on top of the Empire State Building’s flat roof.",
+                "machine"
+            ],
+            [
+                "Rather than building a utilitarian mast without any ornamentation, the architects designed a shiny glass and chrome-nickel stainless steel tower that would be illuminated from inside.",
+                "machine"
+            ],
+            [
+                "The rocket-shaped mast would have four wings at its corners, of shiny aluminum, and would rise to a conical roof that would house the mooring arm.",
+                "machine"
+            ],
+            [
+                "The winds on top of the building were constantly shifting due to violent air currents, which made it difficult for the dirigibles to dock.",
+                "machine"
+            ]
+        ],
+        "domain": "academic"
+    },
+    {
+        "id": 16158,
+        "sent_and_label": [
+            [
+                "The builders of the Empire State Building faced many obstacles in attempting to allow dirigibles, also known as blimps, to dock there.",
+                "human"
+            ],
+            [
+                "The initial problem was that the blimp couldn't land on a flat surface.",
+                "human"
+            ],
+            [
+                "A mooring mast had to be added to the top of the building to allow the blimps to anchor there for several hours for refueling or service, and to let passengers off and on.",
+                "machine"
+            ],
+            [
+                "However, a thousand-foot dirigible moored at the top of the building, held by a single cable tether, would add stress to the building’s frame.",
+                "machine"
+            ],
+            [
+                "The stress of the dirigible’s load and the wind pressure would have to be transmitted all the way to the building’s foundation, which was nearly eleven hundred feet below.",
+                "machine"
+            ],
+            [
+                "The steel frame of the Empire State Building would have to be modified and strengthened to accommodate this new situation.",
+                "machine"
+            ],
+            [
+                "The other practical reason why dirigibles could not moor at the Empire State Building was an existing law against airships flying too low over urban areas.",
+                "machine"
+            ],
+            [
+                "This law would make it illegal for a ship to ever tie up to the building or even approach the area.",
+                "machine"
+            ]
+        ],
+        "domain": "academic"
+    },
+    {
+        "id": 16670,
+        "sent_and_label": [
+            [
+                "The builders of the Empire State Building faced various problems in attempting dirigibles to dock there.",
+                "human"
+            ],
+            [
+                "One problem they faced was adding a mooring mast atop the building, and keeping the dirigible and building stable during docking.",
+                "human"
+            ],
+            [
+                "A thousand-foot dirigible moored at the top of the building would add stress to the building’s frame.",
+                "machine"
+            ],
+            [
+                "The steel frame of the Empire State Building would have to be modified and strengthened to accommodate this new situation.",
+                "machine"
+            ],
+            [
+                "Over sixty thousand dollars’ worth of modifications had to be made to the building’s framework.",
+                "machine"
+            ],
+            [
+                "The mast had a skeleton of steel and was clad in stainless steel with glass windows.",
+                "machine"
+            ],
+            [
+                "The architects designed a shiny glass and chrome-nickel stainless steel tower that would be illuminated from inside, with a stepped-back design that imitated the overall shape of the building itself.",
+                "machine"
+            ],
+            [
+                "The rocket-shaped mast would have four wings at its corners, of shiny aluminum and would rise to a conical roof that would house the mooring arm.",
+                "machine"
+            ],
+            [
+                "The other practical reason why dirigibles could not moor at the Empire State Building was an existing law against airships flying too low over urban areas.",
+                "machine"
+            ],
+            [
+                "Even if the dirigible were tethered to the mooring mast, the back of the ship would swivel around and around the mooring mast.",
+                "machine"
+            ],
+            [
+                "The winds on top of the building were constantly shifting due to violent air currents.",
+                "machine"
+            ],
+            [
+                "The idea of using the mooring mast for dirigibles and their passengers had quietly disappeared by the late 1930s.",
+                "machine"
+            ]
+        ],
+        "domain": "academic"
+    }
+]

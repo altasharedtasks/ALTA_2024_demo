@@ -49,7 +49,7 @@ python logistic_regression_machine_text.py --train_file data/train.json --test_f
 
 - **`--train_file`**: Path to the training data file (in JSON format).
 - **`--test_file`**: Path to the test data file (in JSON format).
-- **`--output_file`**: (Optional) Path to the output file for predictions. Default is `data/answer.json`.
+- **`--output_file`**: Path to the output file for predictions. Default is `data/answer.json`.
 
 ## Data Format
 

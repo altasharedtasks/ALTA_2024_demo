@@ -22,29 +22,89 @@ Ensure that you have Python installed on your system. It is recommended to use a
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/ALTA_2024_demo.git
+   cd ALTA_2024_demo
    ```
+
 2. **Create and Activate a Virtual Environment** (Optional but recommended):
-```
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
 
-3. **Install Required Packages:**
-```
-pip install -r requirements.txt
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
 
-### Usage
+3. **Install Required Packages**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
 
 To train the model and predict labels for the test set, use the following command:
-```
+
+```bash
 python logistic_regression_machine_text.py --train_file data/train.json --test_file data/phase1_test_without_labels.json --output_file data/answer.json
 ```
+
 - **`--train_file`**: Path to the training data file (in JSON format).
 - **`--test_file`**: Path to the test data file (in JSON format).
 - **`--output_file`**: (Optional) Path to the output file for predictions. Default is `data/answer.json`.
 
+## Data Format
 
+### Training Data
 
+The training data should be a JSON file containing an array of objects. Each object should have the following structure:
+
+```json
+{
+  "sent_and_label": [["sentence1", "machine"], ["sentence2", "human"], ...]
+}
+```
+
+### Test Data
+
+The test data should be a JSON file containing an array of objects. Each object should have the following structure:
+
+```json
+{
+  "id": "unique_identifier",
+  "sent": ["sentence1", "sentence2", ...],
+  "domain": "domain_name"
+}
+```
+
+## Dependencies
+
+The project requires the following Python packages:
+
+- `pandas==1.5.3`
+- `numpy==1.23.5`
+- `scikit-learn==1.2.2`
+- `tqdm==4.64.1`
+
+These can be installed using:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Output
+
+The script outputs a JSON file (`data/answer.json` by default) containing predictions for each article in the test set. The output format is:
+
+```json
+[
+  {
+    "id": "unique_identifier",
+    "sent_and_label": [["sentence1", "human"], ["sentence2", "machine"], ...],
+    "domain": "domain_name"
+  },
+  ...
+]
+```
+
+## License
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.

@@ -59,7 +59,9 @@ The training data should be a JSON file containing an array of objects. Each obj
 
 ```json
 {
-  "sent_and_label": [["sentence1", "machine"], ["sentence2", "human"], ...]
+  "id": "unique_identifier",
+  "sent_and_label": [["sentence1", "machine"], ["sentence2", "human"], ...],
+  "domain": "domain_name"
 }
 ```
 
